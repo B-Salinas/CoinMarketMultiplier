@@ -12,4 +12,4 @@ Hopefully this works out.
 
 ---
 
-The focus of this project is to help my understanding of buying/selling/holding crypto. The markets move fast and I want to better understand how all these variables influence each other (real differential equation-y). 
+The focus of this project is to help my understanding of buying/selling/holding crypto. The markets move fast and I want to better understand how all these variables influence each other. 
