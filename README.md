@@ -2,7 +2,7 @@
 
 The idea is simple. 
 
-Take any coin (token, stablecoin, or memecoin), your entry point into its market, number of coins held (and future coins bought), current market cap and volume, and we can ~PREDICT~ potential multipliers. 
+Take any coin (token, stablecoin, or memecoin), your entry point into its market, number of coins held (and future coins bought), current market cap and volume, and we can ~ PREDICT ~ potential multipliers. 
 
 Hopefully this works out. 
 
